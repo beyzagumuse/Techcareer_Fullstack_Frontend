@@ -3,7 +3,7 @@
 ---
 
 ## Konu
-'''sh
+```sh
 git init
 git add .
 git commit -m "Frontend init"
@@ -15,69 +15,69 @@ git branch
 git pull
 git pull origin master
 
-'''
+```
 
 ---
 
 ## Konu
-'''sh
+```sh
 
-'''
-
----
-
-## Konu
-'''sh
-
-'''
+```
 
 ---
 
 ## Konu
-'''sh
+```sh
 
-'''
-
----
-
-## Konu
-'''sh
-
-'''
+```
 
 ---
 
 ## Konu
-'''sh
+```sh
 
-'''
-
----
-
-## Konu
-'''sh
-
-'''
+```
 
 ---
 
 ## Konu
-'''sh
+```sh
 
-'''
-
----
-
-## Konu
-'''sh
-
-'''
+```
 
 ---
 
 ## Konu
-'''sh
+```sh
 
-'''
+```
+
+---
+
+## Konu
+```sh
+
+```
+
+---
+
+## Konu
+```sh
+
+```
+
+---
+
+## Konu
+```sh
+
+```
+
+---
+
+## Konu
+```sh
+
+```
 
 ---
